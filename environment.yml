@@ -1,7 +1,0 @@
-name: ase-tutorial
-channel: 
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - ase
